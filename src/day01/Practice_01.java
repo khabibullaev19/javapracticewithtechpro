@@ -26,6 +26,10 @@ public class Practice_01 {
 
         System.out.println(i);
 
+        i = Integer.MAX_VALUE;
+        System.out.println(i);
+        System.out.println(i = Integer.MIN_VALUE);
+
     }
 
 }
